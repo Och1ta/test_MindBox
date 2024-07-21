@@ -28,5 +28,13 @@
 ### Клонируйте репозиторий
 
 ```bash
-git clone 
+git clone https://github.com/Och1ta/test_MindBox.git
 ```
+
+### Установка зависимостей 
+```bash
+pip install -r requirements.txt
+```
+
+## Автор
+### [Кабaнов Антон](https://github.com/Och1ta)
